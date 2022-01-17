@@ -1,0 +1,29 @@
+3,4,3,1,2
+
+list = input
+loop till 80 day:
+    loop lst
+        i--
+        if i == -1
+            set i = 6
+            add new element as 8
+
+
+80/7
+
+
+[6] ==> 11
+6,8(76)
+
+total = 0;
+loop x lst
+    n = ((6 - x) + 80)
+    while n >= 0
+        total = total + (n / 7)
+        n = n - 9
+
+
+[21, 20, 21, 23, 22]
+
+15, 13
+    6, 4
